@@ -4,8 +4,56 @@
     <!-- Main section starts -->
     <div class="main">
     <div class="wrapper">
-                <strong><h1>Manage Admin</h1></strong>
-                
+                <strong><h1>Manage Admin</h1></strong><br>
+                <a href="add-admin.php" class="btn-primary">Add admin</a><br><br><br>
+                <table class="tbl-full">
+                    <tr>
+                        <th>S.N</th>
+                        <th>Fullname</th>
+                        <th>Username</th>
+                        <th>Actions</th>
+                    </tr>
+
+                    <tr>
+                        <td>1</td>
+                        <td>Vachana Mandattil</td>
+                        <td>Vachana</td>
+                        <td>
+                        <a href="#" class="btn-secondary">Update admin</a>
+                        <a href="#" class="btn-danger">Delete admin</a>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>2</td>
+                        <td>Vachana Mandattil</td>
+                        <td>Vachana</td>
+                        <td>
+                        <a href="#" class="btn-secondary">Update admin</a>
+                        <a href="#" class="btn-danger">Delete admin</a>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>3</td>
+                        <td>Vachana Mandattil</td>
+                        <td>Vachana</td>
+                        <td>
+                        <a href="#" class="btn-secondary">Update admin</a>
+                        <a href="#" class="btn-danger">Delete admin</a>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>4</td>
+                        <td>Vachana Mandattil</td>
+                        <td>Vachana</td>
+                        <td>
+                        <a href="#" class="btn-secondary">Update admin</a>
+                        <a href="#" class="btn-danger">Delete admin</a>
+                        </td>
+                    </tr>
+                </table>
 
                
             </div>

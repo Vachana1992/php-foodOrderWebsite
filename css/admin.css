@@ -62,3 +62,52 @@ version: 1.0 */
     float:none;
     clear:both
 }
+
+.tbl-full{
+    width:100%
+}
+table tr th{
+    border-bottom: 1px solid black;
+    padding: 1%;
+    text-align: left;
+}
+table td{
+    padding:1%;
+}
+
+.btn-primary{
+    background-color: rgb(17, 138, 219);
+    padding: 1%;
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-primary:hover{
+    background-color: blue;
+}
+
+.btn-secondary{
+    background-color: rgb(56, 150, 56);
+    padding: 1%;
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-secondary:hover{
+    background-color: green;
+}
+
+.btn-danger{
+    background-color: rgb(184, 73, 73);
+    padding: 1%;
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.btn-danger:hover{
+    background-color: red;
+}
+
+.tbl-30{
+    width:30%
+}
